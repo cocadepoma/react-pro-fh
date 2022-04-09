@@ -1,0 +1,3 @@
+[submodule "fr-product-card"]
+	path = fr-product-card
+	url = git@github.com:soyl3y3nd4/fr-product-card.git
