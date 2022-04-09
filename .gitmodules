@@ -1,3 +1,6 @@
 [submodule "fr-product-card"]
 	path = fr-product-card
 	url = git@github.com:soyl3y3nd4/fr-product-card.git
+[submodule "02-react-app"]
+	path = 02-react-app
+	url = git@github.com:soyl3y3nd4/fh-react-app.git
