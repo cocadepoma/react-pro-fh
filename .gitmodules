@@ -4,3 +4,6 @@
 [submodule "02-react-app"]
 	path = 02-react-app
 	url = git@github.com:soyl3y3nd4/fh-react-app.git
+[submodule "sb-react-pro"]
+	path = sb-react-pro
+	url = git@github.com:soyl3y3nd4/sb-react-pro.git
