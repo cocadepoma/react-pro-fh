@@ -7,3 +7,6 @@
 [submodule "sb-react-pro"]
 	path = sb-react-pro
 	url = git@github.com:soyl3y3nd4/sb-react-pro.git
+[submodule "03-sb-react-pro"]
+	path = 03-sb-react-pro
+	url = git@github.com:soyl3y3nd4/sb-react-pro.git
