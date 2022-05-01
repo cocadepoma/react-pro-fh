@@ -10,3 +10,9 @@
 [submodule "03-sb-react-pro"]
 	path = 03-sb-react-pro
 	url = git@github.com:soyl3y3nd4/sb-react-pro.git
+[submodule "react-calendar-frontend"]
+	path = react-calendar-frontend
+	url = git@github.com:soyl3y3nd4/react-pro-service-worker.git
+[submodule "react-calendar-backend"]
+	path = react-calendar-backend
+	url = git@github.com:soyl3y3nd4/react-pro-service-worker-back.git
