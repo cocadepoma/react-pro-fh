@@ -19,3 +19,6 @@
 [submodule "maps-app"]
 	path = maps-app
 	url = git@github.com:soyl3y3nd4/react-pro-maps.git
+[submodule "01-bases"]
+	path = 01-bases
+	url = git@github.com:soyl3y3nd4/react-pro-bases.git
